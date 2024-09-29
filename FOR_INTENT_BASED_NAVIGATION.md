@@ -1,5 +1,4 @@
-Ressources:
-https://www.linkedin.com/pulse/cross-app-navigation-navigate-from-one-fiori-app-another-tiwari-kinge/
+
 
 
 ⚠️ La navigation ne fonctionne qu'une fois l'application déployée, elle n'est pas prise en charge dans l'aperçu via Eclipse ou BAS.
@@ -63,6 +62,12 @@ Dans la section **Configuration**, vous trouverez trois colonnes importantes :
 
 => exemple  [VA03](https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/detail/Apps('VA03')/S28OP)
 
+
+
+Ressources:
+- https://www.linkedin.com/pulse/cross-app-navigation-navigate-from-one-fiori-app-another-tiwari-kinge/
+- https://community.sap.com/t5/technology-blogs-by-members/three-types-of-intent-based-navigation-in-fiori-rap/ba-p/13502715
+- https://help.sap.com/docs/ABAP_PLATFORM_NEW/468a97775123488ab3345a0c48cadd8f/d782acf8bfd74107ad6a04f0361c5f62.html
 
 
 
