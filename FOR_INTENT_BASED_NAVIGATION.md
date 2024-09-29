@@ -23,7 +23,9 @@ Exemple:
 
 		type: #WITH_INTENT_BASED_NAVIGATION,
 
-		value: 'SalesOrder'
+		value: 'SalesOrder' 
+		// Correspond au salesOrder ci-dessous 
+		// a ne pas confondre avec le semanticObject
 
 	}]
 }
