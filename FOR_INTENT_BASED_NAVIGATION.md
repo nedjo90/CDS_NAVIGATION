@@ -15,17 +15,17 @@ Exemple:
 ```C
 @UI:{
 
-lineItem: [{
+	lineItem: [{
 
-semanticObject: 'SalesOrder',
+		semanticObject: 'SalesOrder',
 
-semanticObjectAction: 'display',
+		semanticObjectAction: 'display',
 
-type: #WITH_INTENT_BASED_NAVIGATION,
+		type: #WITH_INTENT_BASED_NAVIGATION,
 
-value: 'SalesOrder'
+		value: 'SalesOrder'
 
-}]
+	}]
 }
 
 SalesOrder;
