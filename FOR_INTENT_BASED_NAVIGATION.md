@@ -18,6 +18,7 @@ Exemple:
 	lineItem: [{
 
 		semanticObject: 'SalesOrder',
+		//Defini dans la base de donnée (Standard ou Z )
 
 		semanticObjectAction: 'display',
 
