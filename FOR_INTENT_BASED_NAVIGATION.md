@@ -39,6 +39,9 @@ Pour le semantic object, on va la chercher dans :
 1. [Fiori apps library](https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/home)   
 2. Chercher l'app voulu example va03
 3. IMPLEMENTATION INFORMATION (onglet)
+
+<img src="./images/Pasted image 20240929180407.png">
+
 4. Configuration => 3 colonnes :
 	1. Semantic Object => annotation = `semanticObject` 
 		1. exemple: SalesOrder
@@ -46,12 +49,15 @@ Pour le semantic object, on va la chercher dans :
 		1. exemple : display
 	3. Parameter-Value => annotation = `value` 
 		1. exemple correspond au type de valeur que nous pouvons passer en paramètre (voir exemple ci-dessus) : (sap-ach=SD-SLS)& (CommodityOrderRequestDocument=>VBAK-VBELN)& (ConfigurationObject=>VBAK-VBELN)& (sap-ach=FIN-FSCM-CMM-DOT)& (DynproOKCode=ENT2=>DYNP_OKCODE)& (DynproNoFirstScreen=1=>DYNP_NO1ST)& (SalesOrder=>VBAK-VBELN)
+
+<img src="./images/Pasted image 20240929180304.png">
+
 => exemple  [VA03](https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/detail/Apps('VA03')/S28OP)
 
 
 
 
-<img src="./images/Pasted image 20240929180407.png">
 
-<img src="./images/Pasted image 20240929180304.png">
+
+
 
