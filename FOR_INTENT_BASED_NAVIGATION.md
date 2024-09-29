@@ -51,7 +51,7 @@ Pour le semantic object, on va la chercher dans :
 
 
 
-[<img src="./images/Pasted image 20240929180407.png">]
+<img src="./images/Pasted image 20240929180407.png">
 
-![[Pasted image 20240929180304.png]]
+<img src="./images/Pasted image 20240929180304.png">
 
